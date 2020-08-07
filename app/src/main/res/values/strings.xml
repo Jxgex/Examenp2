@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Examen 2</string>
+    <string name="Login">Iniciar Sesión</string>
+    <string name="Entrar">Entrar</string>
+    <string name="Titulo_aceptado">Correcto</string>
+    <string name="Titulo_alerta">Alerta</string>
+    <string name="Titulo_error">Error</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="Formulario_Nombre">Nombre(s)</string>
+    <string name="Formulario_Apaterno">Apellido Paterno</string>
+    <string name="Formulario_Amaterno">Apellido Materno</string>
+    <string name="Formulario_Telefono">Número de Telefono</string>
+    <string name="Sexo">Sexo:</string>
+    <string name="SexoH">Hombre</string>
+    <string name="SexoM">Mujer</string>
+    <string name="SexoO">Otro</string>
+    <string name="Edad">Edad</string>
+    <string name="Guardad">Guardar</string>
+    <string name="open">open</string>
+    <string name="close">cerrar</string>
+    <string name="correo">Correo Electronico</string>
+    <string name="Telefono_Celular">Telefono celular</string>
+    <string name="Ubicación">Ubicación</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#304FFE</color>
+    <color name="colorPrimaryDark">#0026CA</color>
+    <color name="colorAccent">#F3F4F5</color>
+    <color name="colorAcentBlack">#000000</color>
+    <color name="Aceptado">#9FF781</color>
+    <color name="Rechazado">#FA5858</color>
+    <color name="SinResolver">#F4FA58</color>
+    <color name="Aceptar">#0174DF</color>
+    <color name="Cancelar">#840808</color>
+    <color name="Advertencia">#F3F781</color>
+</resources>

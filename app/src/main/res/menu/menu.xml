@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:title="Menu">
+    <menu>
+        <item
+            android:id="@+id/home"
+            android:icon="@drawable/ic_home"
+            android:title="Inicio">
+        </item>
+        <item
+            android:id="@+id/Pinturas"
+            android:icon="@drawable/ic_pinturas"
+            android:title="Pinturas">
+        </item>
+        <item
+            android:id="@+id/datos"
+            android:icon="@drawable/ic_datos"
+            android:title="Datos">
+        </item>
+        <item
+            android:id="@+id/Juego"
+            android:icon="@drawable/ic_juegos"
+            android:title="Juego">
+        </item>
+        <item
+            android:id="@+id/Contactos"
+            android:icon="@drawable/ic_buscar"
+            android:title="Contactanos">
+        </item>
+    </menu>
+</item>
+</menu>
